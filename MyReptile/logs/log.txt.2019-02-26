@@ -1,0 +1,42 @@
+2019-02-26 01:37:57,405 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Connection reset
+2019-02-26 01:37:57,405 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Connection reset
+2019-02-26 01:37:57,405 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Connection reset
+2019-02-26 01:37:57,412 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:37:57,412 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:37:57,412 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:39:13,588 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Connection reset
+2019-02-26 01:39:13,588 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Connection reset
+2019-02-26 01:39:13,588 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Connection reset
+2019-02-26 01:39:13,588 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:39:13,588 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:39:13,588 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,971 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Software caused connection abort: connect
+2019-02-26 01:43:28,971 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Software caused connection abort: connect
+2019-02-26 01:43:28,972 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Software caused connection abort: connect
+2019-02-26 01:43:28,972 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Software caused connection abort: connect
+2019-02-26 01:43:28,975 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,975 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,975 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,975 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,976 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {}->http://www.xbiquge.la:80: Software caused connection abort: connect
+2019-02-26 01:43:28,976 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,976 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,976 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,976 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,976 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,976 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,976 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,976 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,977 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,977 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,977 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,977 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,978 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,978 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,978 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,978 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,978 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,978 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,978 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-26 01:43:28,979 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.NoRouteToHostException) caught when processing request to {}->http://www.xbiquge.la:80: No route to host: connect
+2019-02-26 01:43:28,980 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80

@@ -1,0 +1,30 @@
+2019-02-25 15:45:17,607 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://www.biqudu.com:80: The target server failed to respond
+2019-02-25 15:45:17,611 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.biqudu.com:80
+2019-02-25 16:04:34,234 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.biqudu.com:443: Connection reset
+2019-02-25 16:04:34,235 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 16:47:15,002 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://www.biqudu.com:80: The target server failed to respond
+2019-02-25 16:47:15,003 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.biqudu.com:80
+2019-02-25 17:33:05,885 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.biqudu.com:443: Connection reset
+2019-02-25 17:33:05,892 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 17:49:37,951 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://www.biqudu.com:80: The target server failed to respond
+2019-02-25 17:49:37,959 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.biqudu.com:80
+2019-02-25 17:51:28,033 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://www.biqudu.com:443: The target server failed to respond
+2019-02-25 17:51:28,040 [pool-1-thread-1] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 18:34:57,756 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://www.biqudu.com:443: The target server failed to respond
+2019-02-25 18:34:57,757 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 19:53:01,850 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.biqudu.com:443: Connection reset
+2019-02-25 19:53:01,856 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 19:53:01,874 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.biqudu.com:443: Connection reset
+2019-02-25 19:53:01,876 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 19:53:01,879 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.biqudu.com:443: Connection reset
+2019-02-25 19:53:01,880 [pool-1-thread-5] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 19:53:01,947 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.biqudu.com:443: Connection reset
+2019-02-25 19:53:01,952 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 20:21:40,135 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.biqudu.com:443: Connection reset
+2019-02-25 20:21:40,139 [pool-1-thread-4] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {s}->https://www.biqudu.com:443
+2019-02-25 21:31:10,314 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://www.xbiquge.la:80: The target server failed to respond
+2019-02-25 21:31:10,316 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-25 21:37:06,138 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://www.xbiquge.la:80: The target server failed to respond
+2019-02-25 21:37:06,140 [pool-1-thread-3] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
+2019-02-25 22:06:53,138 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://www.xbiquge.la:80: The target server failed to respond
+2019-02-25 22:06:53,139 [pool-1-thread-2] INFO [org.apache.http.impl.execchain.RetryExec] - Retrying request to {}->http://www.xbiquge.la:80
